@@ -65,7 +65,7 @@ const Review = () => {
                         <h1 className='font-bold text-xl'>Sarah M.</h1>
                         <TiTick size={30} className='border-2 border-green-600 bg-green-600 rounded-full' />
                     </div>
-                    <p className='text-gray-500'>Im blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.</p>
+                    <p className='text-gray-500'>Im blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece Ive bought has exceeded my expectations.</p>
                     <p className='text-gray-500'>Posted on August 16, 2023</p>
                 </div>
                 <div className='flex flex-col gap-4 border-2 rounded-[20px] px-5 py-10'>
@@ -85,7 +85,7 @@ const Review = () => {
                         <h1 className='font-bold text-xl'>James L.</h1>
                         <TiTick size={30} className='border-2 border-green-600 bg-green-600 rounded-full' />
                     </div>
-                    <p className='text-gray-500'>As someone whos always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.</p>
+                    <p className='text-gray-500'>As someone whos always on the lookout for unique fashion pieces, Im thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.</p>
                     <p className='text-gray-500'>Posted on August 17, 2023</p>
                 </div>
                 <div className='flex flex-col gap-4 border-2 rounded-[20px] px-5 py-10'>
