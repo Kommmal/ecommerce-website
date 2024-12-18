@@ -7,7 +7,7 @@ const BrandBanner = () => {
         <Image src="/images/zara-logo-1 1.png" alt="" width={91} height={33} className='xs:w-8 xs:h-8 md:w-12 md:h-12 lg:w-24 lg:h-24'></Image>
         <Image src="/images/gucci-logo-1 1.png" alt="" width={156} height={33} className='xs:w-8 xs:h-8 md:w-12 md:h-12 lg:w-24 lg:h-24'></Image>
         <Image src="/images/prada-logo-1 1.png" alt="" width={194} height={32} className='xs:w-8 xs:h-8  md:w-12 md:h-12 lg:w-28 lg:h-28'></Image>
-        <Image src="/images/Group.png" width={206} alt="" height={33} className='xs:w-8 xs:h-8  md:w-12 md:h-12 lg:w-28 lg:h-28'></Image>
+    
     </div>
   )
 }
