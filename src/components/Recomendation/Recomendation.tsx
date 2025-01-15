@@ -9,7 +9,7 @@ const Recomendation = () => {
     <div className="grid grid-cols-[1fr_1fr_1fr_1fr] mt-[50px] gap-x-9 xs:grid-cols-2 xs:gap-y-3 lg:grid-cols-4 lg:gap-x-9">
     <RecomendationCard
     id='1'
-    image="/images/Frame 32 (2).png" // Replace with your image path
+    image="/images/Frame 32 (2).png"
     name="Polo with Contrast Trims"
     price={212}
     previousPrice={242}
@@ -18,7 +18,7 @@ const Recomendation = () => {
     />
     <RecomendationCard
     id='2'
-    image="/images/Frame 33 (2).png" // Replace with your image path
+    image="/images/Frame 33 (2).png" 
     name="Gradiet Graphic T-shirt"
     price={145}
     previousPrice={170}
@@ -27,7 +27,7 @@ const Recomendation = () => {
     />
     <RecomendationCard
     id='3'
-    image="/images/Frame 34 (2).png" // Replace with your image path
+    image="/images/Frame 34 (2).png" 
     name="Polo with Tripping Details"
     price={180}
     previousPrice={200}
@@ -36,7 +36,7 @@ const Recomendation = () => {
     />
     <RecomendationCard
     id='4'
-    image="/images/Frame 38 (2).png" // Replace with your image path
+    image="/images/Frame 38 (2).png" 
     name="Black Stripped T-shirt"
     price={120}
     previousPrice={160}
